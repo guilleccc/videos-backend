@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1f64f1ce3358e6bd4c1e0f9957301382a7731dac474cdb56d7ecc196be554740"
+            "sha256": "916d3093806220eaed607f1b9ceaa9607bd83b4633811ae48ec6c58e01c09a57"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,6 +31,14 @@
             ],
             "index": "pypi",
             "version": "==1.11"
+        },
+        "djangorestframework": {
+            "hashes": [
+                "sha256:110afa12784ceadfb50808882689302d266785b51e3d13286744333ff6d78e60",
+                "sha256:f995a35ae22f354d2a9a42ee6d2c059c101f826b1485ed46781677895ad25ee5"
+            ],
+            "index": "pypi",
+            "version": "==3.5.4"
         },
         "gunicorn": {
             "hashes": [
@@ -78,10 +86,10 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:642253af8eae734d1509fc6ac9c1aee5e5b69d76392660889979b9870610a46b",
-                "sha256:91e3ccf2c344ffaa6defba1ce7f38f97026943f675b7703f44789768e4cb0ece"
+                "sha256:303879e36b721603cc54604edcac9d20401bdbe31e1e4fdee5b9f98d5d31dfda",
+                "sha256:d747dd3d23d77ef44c6a3526e274af6efeb0a6f1afd5a69ba4d5be4098c8e141"
             ],
-            "version": "==2018.6"
+            "version": "==2019.1"
         }
     },
     "develop": {}
