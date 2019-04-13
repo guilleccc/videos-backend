@@ -6,7 +6,7 @@ name = "pypi"
 [dev-packages]
 
 [packages]
-django = "==1.11"
+django = "==1.11.20"
 dj-database-url = "==0.5.0"
 gunicorn = "==19.9.0"
 "psycopg2" = "==2.7.5"
